@@ -1,0 +1,94 @@
+/* style.css */
+
+/* Global Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  background-color: #f8f8f8; /* Couleur d'arrière-plan */
+  color: #333; /* Couleur du texte */
+}
+
+/* Section Styles */
+section {
+  border: 2px solid #ccc;
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff; /* Fond blanc */
+}
+
+/* Container Styles */
+.container {
+  border: 2px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 30px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre légère */
+}
+
+/* Heading Styles */
+h1 {
+  color: #FF69B4;
+  font-size: 2em; /* Taille de police augmentée */
+}
+
+h2 {
+  margin-top: 30px;
+  color: #007BFF;
+  font-size: 1.5em;
+}
+
+/* Image Styles */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+/* Paragraph Styles */
+p {
+  line-height: 1.8;
+  color: #555;
+}
+
+/* Link Styles */
+a {
+  text-decoration: none;
+  color: #007BFF;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+/* List Styles */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+/* Font Awesome Styles */
+.fa {
+  font-size: 30px;
+}
+
+.fa-instagram {
+  color: #8a3ab9;
+}
+
+.fa-facebook-official {
+  color: #1877f2;
+}
+
+.fa-snapchat {
+  color: #fffc00;
+}
+
+
